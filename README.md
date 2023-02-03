@@ -1,2 +1,2 @@
 # digital_clock
-https://github.com/Mehedy-Tanvir/digital_clock.git
+https://mehedy-tanvir.github.io/digital_clock/
